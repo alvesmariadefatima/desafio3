@@ -112,7 +112,7 @@ function Home() {
                         </div>
 
                         <div className="mb-6 flex items-center relative">
-                            <img src="/Linkedin.png" alt="Ícone do LinkedIn" className="absolute left-3" />
+                            <img src="/LinkedIn.png" alt="Ícone do LinkedIn" className="absolute left-3" />
                             <Field
                                 type="text"
                                 id="linkedin"
